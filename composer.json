@@ -1,0 +1,13 @@
+{
+    "name": "tanzim721/php_mvc",
+    "description": "Make MVC famework",
+    "type": "framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tanzim721",
+            "email": "53827851+tanzim721@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
